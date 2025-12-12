@@ -10,3 +10,9 @@ ToDo's
 
 5) How to copy files and directory recursively to host in asible. (Using copy module, and couple of methods more. Practice it)
 
+6) Test this scenario:
+   Setup in ansible galaxy out of which there are few decommissioned servers . How will you exclude or identify the decommissioned ones?  
+By using dynamic inventory. As dynamic inventory gathers the IP during the execution of playbook it automatically picks the servers which are running and not the deleted ones. We can use the status flag as state= running to only filter the running servers.
+
+
+
