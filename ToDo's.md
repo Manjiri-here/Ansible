@@ -8,5 +8,5 @@ ToDo's
 
 4) Practice how can we copy pulic key to multiple machines at once automatically.
 
-
+5) How to copy files and directory recursively to host in asible. (Using copy module, and couple of methods more. Practice it)
 
