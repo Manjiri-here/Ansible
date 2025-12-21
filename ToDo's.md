@@ -2,7 +2,7 @@ ToDo's
 
 1) Write ansible playbook
 
-2) Create a dynamic inventroy file and note down the steps to create it.
+2) Create a dynamic inventroy file and note down the steps to create it. Also check how can we create dynamic inventory to get resources created on cloud (AWS)
 
 3) Create ansible vault.
 
